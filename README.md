@@ -1,6 +1,6 @@
-# ChessPaglu645
+# Chess_Game
 
-Welcome to **ChessPaglu645**, an engaging web-based chess game designed for enthusiasts of all levels. Whether you're a beginner or a seasoned player, ChessPaglu645 offers a platform to play and improve your chess skills.
+Welcome to **Chess_Game**, an engaging web-based chess game designed for enthusiasts of all levels. Whether you're a beginner or a seasoned player, ChessPaglu645 offers a platform to play and improve your chess skills.
 
 ## Features
 
@@ -10,7 +10,7 @@ Welcome to **ChessPaglu645**, an engaging web-based chess game designed for enth
 
 ## Installation
 
-To set up ChessPaglu645 locally on your machine, follow these steps:
+To set up Chess locally on your machine, follow these steps:
 
 1. **Clone the Repository**:
 
