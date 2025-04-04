@@ -56,7 +56,6 @@ io.on("connection", function (uniquesocket) {
 
     uniquesocket.on("move", (move) => {
         try {
-            // Validate if the current player is allowed to make the move
             if (chess.turn() === "w" && uniquesocket.id !== players.white) return;
             if (chess.turn() === "b" && uniquesocket.id !== players.black) return;
 
